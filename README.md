@@ -9,5 +9,6 @@ This project implements sarcasm detecrion by CNN(Shuhui Wu) and Bert(Shuqi Gao)
 
 ## Approach
 * CNN: https://www.aclweb.org/anthology/N18-2018.pdf &nbsp; &nbsp; &nbsp; notebook: &nbsp;Final_proj_CNN.ipynb
-* BERT: papper: https://arxiv.org/pdf/1810.04805v2.pdf followed https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb notebook:    try_bert_1.ipynb and try-bert-2.ipynb
+* BERT: papper: https://arxiv.org/pdf/1810.04805v2.pdf 
+followed https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb notebook:    try_bert_1.ipynb and try-bert-2.ipynb
   
